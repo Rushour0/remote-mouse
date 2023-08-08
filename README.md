@@ -42,7 +42,7 @@ This project is licensed under the [MIT License](/LICENSE), granting everyone th
 
 ## Contact
 
-If you have any inquiries or require assistance, please contact us at contact@remote-mouse.com.
+If you have any inquiries or require assistance, please contact us at pataderushikesh@gmail.com
 
 ---
 
