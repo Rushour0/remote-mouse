@@ -17,10 +17,10 @@ Welcome to the **Remote-Mouse** repository, a powerful solution for remotely con
 
 Follow these steps to start using Remote-Mouse:
 
-1. Clone the repository: `git clone https://github.com/your-username/Remote-Mouse.git`
-2. Set up the client and server configurations based on your requirements.
-3. Run the server application on the target computer.
-4. Launch the client application on your local machine.
+1. Clone the repository: `git clone https://github.com/Rushour0/Remote-Mouse.git`
+3. Set up the client and server configurations based on your requirements.
+4. Run the server application on the target computer.
+5. Launch the client application on your local machine.
 
 Refer to the [Documentation](/docs) for comprehensive setup instructions and command usage.
 
